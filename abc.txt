@@ -1,2 +1,7 @@
 asdasdsadasdasdasdasdsd
 asdsadasd
+
+Class A{
+
+
+}
